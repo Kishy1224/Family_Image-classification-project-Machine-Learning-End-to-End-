@@ -1,2 +1,2 @@
-# Family_Image-classification-project-Machine-Learning-End-to-End-
+# Favourite_presonalities_Image-classification-project-Machine-Learning-End-to-End-
 Machine learning classifcation project using Opencv for face detection, Data collection using FatKun APi, feature engineering using Wavelet transforms in fourier domain,model building using Support vector machines,Random forest and Logistic regression,Hyperparameter tuning using Gridsearch Cv,Backend -FLASK server, frontend/UI using HTML CSS Javascript and Ajax Api
